@@ -1,0 +1,16 @@
+{
+  "name": "ec-home",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "startup": "*",
+    "jade": "*",
+    "gulp": "~3.5.1",
+    "gulp-util": "~2.2.14"
+  }
+}
