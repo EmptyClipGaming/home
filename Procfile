@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/startup
+web: ./node_modules/.bin/startup start -w 1
